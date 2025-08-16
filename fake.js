@@ -1,1 +1,2 @@
-alert("✅ PoC: External script executed from GitHub Pages!");
+console.log("✅ PoC: External script executed — Remote JS included!");
+
